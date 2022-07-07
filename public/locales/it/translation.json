@@ -1,0 +1,8 @@
+{
+    "navbar":{
+        "login":"Entra",
+        "signUp":"Iscriviti",
+        "logout":"Esci",
+        "shop": "Acquista"
+    }
+}

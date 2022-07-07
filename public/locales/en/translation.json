@@ -1,0 +1,8 @@
+{
+    "navbar":{
+        "login":"Login",
+        "signUp":"Sign Up",
+        "logout":"Logout",
+        "shop": "Shop"
+    }
+}
